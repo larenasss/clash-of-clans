@@ -15,7 +15,7 @@
         </CardStatItem>
       </div>
 
-      <router-link to="/" class="btn btn-primary">back to home</router-link>
+      <router-link to="/" class="btn btn_primary">back to home</router-link>
     </div>
   </div>
 </template>
